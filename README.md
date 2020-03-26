@@ -38,6 +38,8 @@ This project was developed with the following technologies:
 
 - [React](https://reactjs.org/)
 - [Create React App](https://create-react-app.dev/)
+- [React Router Dom](https://reacttraining.com/react-router/)
+- [React Icons](https://react-icons.netlify.com/)
 
 ## 💻 Project
 
